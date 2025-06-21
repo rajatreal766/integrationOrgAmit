@@ -7,4 +7,8 @@ public with sharing class Calculator {
 
         return a-b;
     }
+
+    public integer mul(integer a){
+        return a;
+    }
 }
