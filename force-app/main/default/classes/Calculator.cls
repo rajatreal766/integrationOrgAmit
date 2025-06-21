@@ -8,6 +8,10 @@ public with sharing class Calculator {
         return a-b;
     }
 
+    public integer mul(integer b){
+        return b;
+    }
+
     public integer mul(integer a){
         return a;
     }
